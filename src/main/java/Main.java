@@ -20,4 +20,17 @@ public class Main {
     public static int secondMethod (int c) {
         return c;
     }
+
+    public String firstCommit (String s) {
+        s = "first";
+        return s;
+    }
+    public String secondCommit (String s) {
+        s = "second";
+        return s;
+    }
+    public String thirdCommit (String s) {
+        s = "third";
+        return s;
+    }
 }
