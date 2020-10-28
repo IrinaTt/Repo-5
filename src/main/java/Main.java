@@ -29,4 +29,8 @@ public class Main {
     public static int three(int c) {
         return c;
     }
+
+    public static int four(int c) {
+        return c;
+    }
 }
