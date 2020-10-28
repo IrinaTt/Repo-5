@@ -20,4 +20,7 @@ public class Main {
     public static int secondMethod (int c) {
         return c;
     }
+    public static int two (int c) {
+        return c;
+    }
 }
